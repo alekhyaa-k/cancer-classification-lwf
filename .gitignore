@@ -1,6 +1,7 @@
 .spyproject/
 .ipynb_checkpoints/
 model/.ipynb_checkpoints/
+model/Multiple_Types_of_Cancer/
 upload/
 train/
 test/
