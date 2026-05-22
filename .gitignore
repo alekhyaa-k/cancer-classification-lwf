@@ -2,7 +2,9 @@
 .ipynb_checkpoints/
 model/.ipynb_checkpoints/
 model/Multiple_Types_of_Cancer/
+model/Multiple_Types_of_Cancer_vgg19.h5
 static/savingimg/
+static/
 upload/
 train/
 test/
